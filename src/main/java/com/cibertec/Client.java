@@ -14,7 +14,7 @@ public class Client {
         try (Socket socket = new Socket(HOST, PORT)) {
 
             System.out.println("1 >> Connected to server on port" + PORT);
-            System.out.println("2 >> Complere");
+            System.out.println("2 >> Complee");
 
             socket.close();
             
